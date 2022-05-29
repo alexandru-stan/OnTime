@@ -1,0 +1,144 @@
+body {
+  background-image: url('https://lexicdn.lexingtondowntownhotel.com/what-hotel-does-kim-kardashian-stay-at-in-new-york-.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height:100vh;
+  margin:0;
+  display:flex;
+  flex-direction:column;
+}
+h2 {
+  color:white;
+  border-style: solid;
+  box-shadow: 4px 4px 1px #37393d;
+  background-color: #43464B;
+  width: 25%;
+  margin-left: 37%;
+  text-align: center;
+}
+h1 {
+  color: white;
+}
+.cuadro {
+  border: 5px outset black;
+  background-color: #43464B;
+  border-color: grey;
+  text-align: center;
+  height: 212px;
+  width: 40%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.titulo {
+  background-color: darkgrey;
+  border-color: white;
+  color: white;
+  text-align: center;
+}
+
+footer {
+  text-align: right;
+  padding: 3px;
+  margin-top:auto;
+  color: white;
+  min-height:40px;
+}
+#navbarText2 {
+  position: absolute;
+  top: 150%;
+  left: 95%;
+  -ms-transform: translate(-95%, -95%);
+  transform: translate(-50%, -50%);
+}
+#reloj {
+  color: white;
+}
+.cuadroperfil {
+margin-top:4em;
+background-color:#43464B;
+border-radius:0%;
+padding:5%;
+margin-left: 20%;
+margin-right: 20%;
+box-shadow: 5px 5px 2px #37393d;
+width: 55%;
+}
+h5{
+  color:white;
+  background-color: #43464B;
+  box-shadow: 4px 4px 1px #37393d;
+  width: 50%;
+
+}
+
+#txtmodi{
+margin-left:0em;
+}
+.logoP {
+margin-top:-2em;
+padding:10%;
+margin-left: 60%;
+margin-right: 0%;
+  width: 100%;
+  padding: 5px;
+  height: 25px;
+
+}
+
+.imagen {
+  padding: 5px;
+}
+.cuadrofaltas {
+  margin-top:2em;
+  background-color:#43464B;
+  border-radius:0%;
+  padding:5%;
+  margin-left: 20%;
+  margin-right: 20%;
+  box-shadow: 5px 5px 2px #37393d;
+  height: 400px;
+  width: 80%;
+  position: absolute;
+  top: 55%;
+  left: 30%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.cuadrohistorial {
+  margin-top:2em;
+  background-color:#43464B;
+  padding:2%;
+  margin-left: 20%;
+  margin-right: 20%;
+  box-shadow: 5px 5px 2px #37393d;
+  height: 400px;
+  width: 80%;
+  position: absolute;
+  top: 55%;
+  left: 30%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.cuadrocuentas {
+  margin-top:2em;
+  background-color:#43464B;
+  padding:2%;
+  margin-left: 10%;
+  margin-right: 0%;
+  box-shadow: 5px 5px 2px #37393d;
+  height: 520px;
+  width: 95%;
+  position: absolute;
+  top: 55%;
+  left: 40%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.usuario {
+  text-align: center
+}
